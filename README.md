@@ -7,3 +7,7 @@ Cursul 6: https://docs.google.com/document/d/15TE8PASwFvTrQp9ROftmgZm1WRSGwniMsW
 Some models in Blender:
 
 ![Blender Models](https://github.com/user-attachments/assets/3d51178f-c01c-474a-ab62-8556c0af14c6)
+
+Unity Scene:
+
+![image](https://github.com/user-attachments/assets/0c62eca1-adbe-4428-8de4-7fa1f6cab0e6)
