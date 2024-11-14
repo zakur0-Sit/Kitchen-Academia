@@ -4,6 +4,9 @@ Cursul 5: https://docs.google.com/document/d/1BDA2dnSH81m4jD2yU_pOTGJ_x9pd4sn-FN
 
 Cursul 6: https://docs.google.com/document/d/15TE8PASwFvTrQp9ROftmgZm1WRSGwniMsWvGqqedhls/edit?tab=t.0#heading=h.2lsxvbhyp4xj
 
+
+Iteration 1
+
 Some models in Blender:
 
 ![Blender Models](https://github.com/user-attachments/assets/3d51178f-c01c-474a-ab62-8556c0af14c6)
