@@ -14,3 +14,9 @@ Some models in Blender:
 Unity Scene:
 
 ![image](https://github.com/user-attachments/assets/0c62eca1-adbe-4428-8de4-7fa1f6cab0e6)
+
+2D Menu- Main Menu:
+
+![image](https://github.com/user-attachments/assets/94e93461-9be6-419e-8da5-854278375346)
+
+
