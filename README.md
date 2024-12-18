@@ -43,6 +43,11 @@ Week 12
 
 ![image](https://github.com/user-attachments/assets/dd03ff4c-2850-4fb3-b538-69702d81d3e2)
 
+2D Menu- Information about a recipe
+
+![image](https://github.com/user-attachments/assets/aa2162ba-8e50-41c6-bbbd-44f0a80783ea)
+
+
 Some recipe for Kitchen Academia
 
 
