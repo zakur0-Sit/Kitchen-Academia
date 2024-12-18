@@ -36,3 +36,17 @@ Week 12
 
 2D Menu- Your progress
 
+![image](https://github.com/user-attachments/assets/57d49ffa-8ca0-4d00-9bc5-597daf0fc70e)
+
+
+2D Menu- Short information about a recipe
+
+![image](https://github.com/user-attachments/assets/dd03ff4c-2850-4fb3-b538-69702d81d3e2)
+
+Some recipe for Kitchen Academia
+
+
+[Kitchen Academia retete.docx](https://github.com/user-attachments/files/18185511/Kitchen.Academia.retete.docx)
+
+
+
