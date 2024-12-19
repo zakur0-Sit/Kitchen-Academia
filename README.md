@@ -54,4 +54,11 @@ Some recipe for Kitchen Academia
 [Kitchen Academia retete.docx](https://github.com/user-attachments/files/18185511/Kitchen.Academia.retete.docx)
 
 
+Multiplayer test
+
+![multiplayer](https://github.com/user-attachments/assets/3736dc23-061b-4a88-ae7c-1bd4f83986c9)
+
+Implemented script for changing models
+
+![cooking](https://github.com/user-attachments/assets/bbb0a29e-ea48-4a40-b9fc-663b23fe7c4f)
 
