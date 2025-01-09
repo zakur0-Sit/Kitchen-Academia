@@ -67,7 +67,8 @@ Week 13
 
 Time bar. Acceleration of time when pressing the button.
 
+![week13](https://github.com/user-attachments/assets/3efe2b93-10f3-4396-83a2-e43b48c81d15)
 
-https://github.com/user-attachments/assets/09cd176c-f7c3-4674-a707-da847da4bdda
+Multiplayer added (some bugs persist)
 
 
