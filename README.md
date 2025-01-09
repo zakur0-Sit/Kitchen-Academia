@@ -65,10 +65,10 @@ Implemented script for changing models
 Week 13
 
 
-Time bar. Acceleration of time when pressing the button.
+- Time bar. Acceleration of time when pressing the button.
 
 ![week13](https://github.com/user-attachments/assets/3efe2b93-10f3-4396-83a2-e43b48c81d15)
 
-Multiplayer added (some bugs persist)
-
-
+- Multiplayer added (some bugs persist)
+- Completion of 2d menus for the application. 
+- Definition of recipes.
