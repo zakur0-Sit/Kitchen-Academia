@@ -62,3 +62,12 @@ Implemented script for changing models
 
 ![cooking](https://github.com/user-attachments/assets/bbb0a29e-ea48-4a40-b9fc-663b23fe7c4f)
 
+Week 13
+
+
+Time bar. Acceleration of time when pressing the button.
+
+
+https://github.com/user-attachments/assets/09cd176c-f7c3-4674-a707-da847da4bdda
+
+
