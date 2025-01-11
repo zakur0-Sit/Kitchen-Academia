@@ -73,3 +73,11 @@ Week 13
 - Multiplayer added (some bugs persist)
 - Completion of 2d menus for the application. 
 - Definition of recipes.
+
+  ![image](https://github.com/user-attachments/assets/b83f8723-9980-4a8c-b36c-4fc285006bac)
+
+  ![image](https://github.com/user-attachments/assets/717db003-94d6-4a94-b9f0-8b70baf40e27)
+
+  ![image](https://github.com/user-attachments/assets/7fd2b1bf-d1b2-445e-9502-6a0989f1deb5)
+
+
